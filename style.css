@@ -33,6 +33,7 @@ body{
     inset: 15px;
     text-align: center;
 }
+
 .clock span b{
     transform: rotate(calc(-30deg * var(--i)));
     display: inline-block;
@@ -68,4 +69,4 @@ body{
     display: flex;
     justify-content: center;
     align-items: flex-end;
-}
+} 
